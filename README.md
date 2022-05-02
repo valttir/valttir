@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valtti!
 - 👀 I’m interested in embedded development.
-- 🌱 I’m currently learning C++, Qt and JUCE.
+- 🌱 I’m currently learning C++, Qt and Rust.
 - 🎚️ Used to work as a live audio engineer.
 - 💞️ I’m looking to collaborate on projects related to any of the above!
 - 📫 How to reach me -> valttirinnemaa@gmail.com
